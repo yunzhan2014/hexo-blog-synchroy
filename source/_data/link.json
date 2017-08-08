@@ -1,0 +1,12 @@
+{
+    "social": {
+        "weibo": "http://weibo.com/2956118435",
+        "github": "https://github.com/yunzhan2014",
+        "instagram": "https://www.instagram.com/yunzhan2016",
+		"rss": "/atom.xml"
+    },
+    "extern": {
+	    "张小磊": "https://hongleizhang.github.io/",
+        "毛无语": "http://www.cnblogs.com/maowuyu-xb/"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "define": {
+	    "readed": "已读",
+        "reading": "在读",
+        "wanted": "想读"
+    },
+    "contents": {
+        "readed": [{
+            "title": "利用python进行数据分析",
+            "cover": "https://img3.doubanio.com/lpic/s27275372.jpg",
+            "review": "了解pandas和numpy，熟悉数据分析的工具",
+            "score": "8.5",
+            "doubanLink": "https://book.douban.com/subject/25779298/"
+        }, {
+            "title": "互联网大规模数据挖掘与分布式处理",
+            "cover": "https://img3.doubanio.com/lpic/s28020435.jpg",
+            "review": "特点是对图算法的介绍，以及对社交信息的分析方法介绍",
+            "score": "8.5",
+            "doubanLink": "https://book.douban.com/subject/26338353/"
+        }, {
+            "title": "社会心理学",
+            "cover": "https://img3.doubanio.com/lpic/s1670932.jpg",
+            "review": "社会心理学的入门教材，仔细读的话就能对生活很平常的事有重新的认识",
+            "score": "9.0",
+            "doubanLink": "https://book.douban.com/subject/1476651/"
+        }],
+		
+		"reading": [{
+            "title": "统计学习方法",
+            "cover": "https://img3.doubanio.com/lpic/s9108113.jpg",
+            "review": "",
+            "score": null,
+            "doubanLink": "https://book.douban.com/subject/10590856/"
+        }, {
+            "title": "机器学习实战",
+            "cover": "https://img3.doubanio.com/lpic/s26696371.jpg",
+            "review": "",
+            "score": null,
+            "doubanLink": "https://book.douban.com/subject/24703171/"
+        }, {
+            "title": "机器学习",
+            "cover": "https://img1.doubanio.com/lpic/s28735609.jpg",
+            "review": "",
+            "score": null,
+            "doubanLink": "https://book.douban.com/subject/26708119/"
+        }],
+
+        "wanted": [{
+            "title": "计算机程序的构造和解释",
+            "cover": "https://img3.doubanio.com/lpic/s1463770.jpg",
+            "review": "",
+            "score": null,
+            "doubanLink": "http://book.douban.com/subject/1148282/"
+        }, {
+            "title": "算法导论",
+            "cover": "https://img1.doubanio.com/lpic/s1959967.jpg",
+            "review": "",
+            "score": null,
+            "doubanLink": "https://book.douban.com/subject/1885170/"
+        }, {
+            "title": "Pattern Recognition And Machine Learning",
+            "cover": "https://img1.doubanio.com/lpic/s4254558.jpg",
+            "review": "",
+            "score": null,
+            "doubanLink": "https://book.douban.com/subject/2061116/"
+        }]
+    }
+}
